@@ -1,0 +1,12 @@
+.container{
+    padding-right: 50px;
+    padding-top: 10px;
+    margin-left: 80px;
+}
+.link{
+    color: rgb(233, 243, 91);
+    font-size: 2rem;
+}
+.likes{
+    color: rgb(238, 169, 169);
+}

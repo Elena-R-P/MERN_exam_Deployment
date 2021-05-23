@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
+.App {
+  text-align: center;
+  width: 900px;
+  height: 800px;
+  background-color: rgb(72, 161, 93);
+  margin: 50px;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: 'Goblin One', cursive;
+  color: white
+}
+
